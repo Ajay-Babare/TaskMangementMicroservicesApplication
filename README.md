@@ -1,4 +1,4 @@
-# TaskMangementMicroservicesApplication
+# Task Mangement Microservices Application
 
 Task Management Microservices Application
 Welcome to the Task Management Microservices Application! This project implements a task management system using microservices architecture.
